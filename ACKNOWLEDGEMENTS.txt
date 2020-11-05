@@ -1,0 +1,3 @@
+icon.ico: Icon made by Freepik from www.flaticon.com
+icon_sql.ico: Icon made by Freepik from www.flaticon.com
+icon_sql_file.ico: Icon made by Freepik from www.flaticon.com
